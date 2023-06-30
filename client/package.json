@@ -1,0 +1,21 @@
+{
+    "name": "Contact",
+    "scripts": {
+      "dev": "webpack-dev-server",
+      "build": "webpack",
+      "start": "webpack && webpack serve"
+    },
+    "author": "Dustin",
+    "license": "UNLICENSED",
+    "devDependencies": {
+      "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
+      "css-loader": "^6.8.1",
+      "html-webpack-plugin": "^5.5.3",
+      "mini-css-extract-plugin": "^2.7.6",
+      "style-loader": "^3.3.3",
+      "webpack": "^5.88.1",
+      "webpack-cli": "^5.1.4",
+      "webpack-dev-server": "^4.15.1"
+    }
+  }
+  
